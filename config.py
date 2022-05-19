@@ -1,0 +1,1 @@
+BQ_KEY_LOCATION='/Users/shoulhafiz/OneDrive/RMG/mpdbq1-bq-key.json'
